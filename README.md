@@ -1,12 +1,12 @@
-# Nice to meet You
+# WELCOME TO MY GITHUB 🌓
 
-![Github-baner](/images/baner.png)
+![Github-baner](</images/logo-home-monokrome(6).svg>)
 
-My name is **Burhanudin Rabbani**. This is my first year in the world of technology. I really like the concept of 🌟 open source, 💻 technology, and 🎨art itself. I feel like things like this really humanize me. I hope that in the future I can be useful to the community like other people. Currently, I am taking a course at 🐻 Bearmentor Bootcamp.
+Hi, I’m Burhanudin Rabbani — currently embarking on my first year in the world of technology. I’m deeply passionate about open-source innovation, cutting-edge tech, and the intersection of art and creativity. I believe that technology, much like art, has the power to connect people and bring out the best of our shared humanity. My goal is to keep learning, growing, and contributing to the community — creating meaningful impact just as others have inspired me.
 
 #### My currently skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js&theme=dark)](https://skillicons.dev)
 
 ## Get in Touch
 
@@ -16,6 +16,11 @@ My name is **Burhanudin Rabbani**. This is my first year in the world of technol
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanudinrabbani666&show_icons=true&theme=codeSTACKr)](https://github.com/burhanudinrabbani666/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yatzxiyqe4higksoqjdxcofzge&count=1)
-
 ## Thanks
+
+Thank you for stopping by!
+I truly appreciate your time and curiosity in exploring this project. Every line of code here is part of a journey — not just of learning technology, but of connecting with people who share the same passion for building and improving together.
+
+Let’s keep learning, sharing, and creating — not just better code, but a better community. 💻✨
+
+> “The deepest principle in human nature is the craving to be appreciated.” — Dale Carnegie
