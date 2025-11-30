@@ -17,10 +17,3 @@ Hi, I’m Burhanudin Rabbani — currently embarking on my first year in the wor
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanudinrabbani666&show_icons=true&theme=codeSTACKr)](https://github.com/burhanudinrabbani666/github-readme-stats)
 
 ## Thanks
-
-Thank you for stopping by!
-I truly appreciate your time and curiosity in exploring this project. Every line of code here is part of a journey — not just of learning technology, but of connecting with people who share the same passion for building and improving together.
-
-Let’s keep learning, sharing, and creating — not just better code, but a better community. 💻✨
-
-> “The deepest principle in human nature is the craving to be appreciated.” — Dale Carnegie
